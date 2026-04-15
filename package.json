@@ -1,0 +1,15 @@
+{
+  "name": "p5js-editor-downloader",
+  "version": "1.0.0",
+  "description": "download p5js projects from the editor",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.3.2"
+  }
+}
